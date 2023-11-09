@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+ *{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+ }
+ h1{
+   color: blueviolet;
+ }
+ nav h1 i{
+   margin-right:20px ;
+ }
+ body{
+   
+    background-color :rgb(157, 196, 228);
+    display: flexbox;
+ }
+ nav{
+    background-color: blueviolet;
+    padding: 20px  0 ;
+ }
+ nav div{
+    display: inline-block; 
+    width: 48%;
+ }
+ nav div h1{
+    margin-left: 45px;
+    color: aqua; 
+    
+ }
+ nav div a{
+    margin-left: 50px;
+    color: rgb(16, 17, 17);
+    text-decoration: none;
+    opacity: 0.7;
+    
+    
+ }
+ nav div a:hover{
+    color: red;
+    text-decoration: underline;
+    font-weight: 400;
+ }
+.nav2{
+    text-align: center;
+    
+    
+}
+.main{
+   width: 80%;
+   margin: auto;
+   padding: auto;
+
+}
+.main div{
+   display: inline-block;
+   width: 49%;
+   
+
+}
+.main1
+{
+   text-align: center;
+   margin-top: 8%;
+
+
+}
+.main1 img{
+   border-radius: 10%;
+}
+.main button{
+   border: none;
+ background-color:aqua;
+   padding: 2%;
+   border-radius: 7px;
+   opacity: 0.7;
+
+}
+.main button:hover{
+opacity: 2;
+}
+nav h2{
+   color:green;
+   
+}
+.education,.language,.education ul,.language ul{
+   margin: 3%;
+ list-style: none;
+}
+
+li{
+   margin: 0;
+   padding: 0;
+}
+
+.sh1{
+   margin-left: auto;
+}
+.scard{
+   display: inline-block;
+  
+   text-align: center;
+   padding: 2%;
+background-color: rgb(141, 93, 93);
+margin: 3%;
+
+}
+.scard:hover{
+   scale: 105%;
+   background-color:  rgb(176, 72, 72);;
+}
+
+.list{
+   margin-bottom: 3%;
+   margin-right: 20%;
+   background-color: rgb(238, 232, 245);
+   display: inline-block;
+   background-color: rgb(112, 83, 139);
+
+}
+.sh2{ 
+   opacity: o.6;
+   margin-bottom: 1%;
+   
+  
+   padding: 5%;
+
+   
+}
+footer>div{
+display: inline-block;
+   
+}
+
+footer a{
+   display: inline-block;
+   width: 25px;
+   
+}
+.end-foot{
+   width:100%;
+   text-align: end;
+}
+footer img{
+   opacity: 0.7;
+}
+footer img:hover{
+   opacity: 1;
+}
+html{
+   scroll-behavior: smooth;
+}
+.sh2 h2{
+   
+
+}
+.sh2 list{
+   opacity: o.8;
+}
+.footer {
+   margin-left: 5%;
+}
